@@ -1,6 +1,6 @@
 # pythia_blog
 
-This a blog a creadted for posting contents about chemistry
+This a blog a created for posting contents about chemistry
 
 
 ![Django admin](https://github.com/meshach5667/pythia_blog/blob/master/static/Images/Screenshot%20from%202023-08-24%2019-56-00.png)
